@@ -1,0 +1,170 @@
+.records{
+    width: 500px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.title-block{
+    border-top: 5px solid #002647;
+    border-top-width: 27px;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+    display: flex;
+    color: #012E57;
+    align-items: center;
+    border-bottom: 2px solid #BCBCBC;
+    padding-top: 10px;
+    padding-bottom: 10px;
+ }
+.title-name{
+    font-size: 27px;
+    font-weight: 500;
+}
+.arrow-icon{
+    padding-right: 15px;
+}
+.patient-details{
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    padding-top: 20px;
+    color: #012E57;
+    padding-bottom: 15px;
+}
+.patient-info{
+    margin: 5px;
+}
+
+.patient-icon{
+   padding-left: 150px;
+}
+.card{
+  background-color: #002647;
+  width: 450px;
+  border-radius: 25px;
+  height: 180px;
+  align-items: center;
+  padding-left: 15px;
+  margin-left: 5px;
+  color: #FFFFFF;
+}
+
+.card-title{
+    padding-top: 7px;
+    padding-left: 150px;
+    word-spacing: 3px;
+    letter-spacing: 1px;
+   font-size: 20px;
+}
+.extra-details{
+    padding-top: 20px;
+    margin-left: 10px;
+    color: #012E57;
+    border-bottom:2px solid #BCBCBC ;
+}
+.major-details{
+    display: flex;
+    margin-bottom: 10px;
+}
+.details-heading{
+    color: #7D7D7D;
+    
+}
+.value{
+    color: black;
+    padding-left: 5px;
+}
+.details-icon{
+    padding-left: 100px;
+}
+.details-icon2{
+    padding-left: 120px;
+}
+.details-icon3{
+    padding-left: 80px;
+}
+.footer-block{
+    display: flex;
+    padding-top: 20px;
+    margin-left: 10px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #BCBCBC;
+}
+.medical-history{
+    color: #002647;
+    font-weight: 550;
+}
+.problems{
+    padding-left: 50px;
+    padding-top: 10px;
+}
+.blank-space{
+    margin-top: 350px;
+    
+    color: grey;
+}
+.mob-navigation{
+    background-color: black;
+    align-items: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-bottom-left-radius: 19px;
+    border-bottom-right-radius: 19px;
+}
+
+.icon1{
+    padding-left: 60px;
+}
+.icon2{
+  padding-left: 145px;  
+}
+.icon3{
+    padding-left: 145px;
+}
+
+.progress{
+    position: relative;
+    margin: 6px;
+    margin-left: 25px;
+    float:left;
+    text-align: center;
+    
+  }
+  .percentage{
+    font-size: 40px;
+   }
+  .barOverflow{ 
+    position: relative;
+    width: 180px; height: 90px; 
+    margin-bottom: -34px; 
+    overflow: hidden;
+  }
+  .bar{
+    position: absolute;
+    top: 0; left: 0;
+    width: 180px; height: 180px; 
+    border-radius: 50%;
+    box-sizing: border-box;
+    border: 20px solid #FFFFFF;     
+    border-bottom-color:#fcb000;  
+    border-left-color: #fcb000;
+  }
+  .graph{
+    background-color: white;
+    width: 95px;
+    height: 40px;
+    margin-left: 250px;
+    margin-top: 20px;
+    color: black;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 20px;
+  }
+  .graph2{
+    margin-top: 5px;
+  }
+  .graph-img{
+    margin-left: 20px;
+    
+    padding-bottom: 20px;
+  }
